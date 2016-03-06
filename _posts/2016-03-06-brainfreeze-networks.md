@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T18:18:02.828Z'
-dateModified: '2016-03-06T18:17:42.357Z'
+datePublished: '2016-03-06T18:43:38.272Z'
+dateModified: '2016-03-06T18:42:26.513Z'
 title: Brainfreeze Networks
 author: []
 sourcePath: _posts/2016-03-06-brainfreeze-networks.md
@@ -26,4 +26,6 @@ _type: Article
 
 Brainfreeze Networks is a proud Founding Member of The Grid.
 
-Use this link for access to The Grid.
+Use this link for access to The Grid: [HTTPS://THEGRID.IO/\#20465][0]
+
+[0]: HTTPS://THEGRID.IO/#20465
