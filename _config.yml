@@ -1,0 +1,28 @@
+name: Brainfreeze Networks
+favicon: null
+layout_spectrum: 0.757599696982652
+typography_spectrum: 0.8686194133479148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.25903685740195215
+  lightness: 0.5559090957976878
+  saturation: 0.1828293278813362
+  rhythmicContrast: 0.7435887199826539
+purpose: []
