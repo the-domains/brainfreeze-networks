@@ -1,20 +1,4 @@
-name: Brainfreeze Networks
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.54894
-title: Brainfreeze Networks
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0.7435887199826539
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Brainfreeze Networks
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Brainfreeze Networks
+description: This has nothing to do with Slurpees.
 purpose: []
